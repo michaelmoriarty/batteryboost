@@ -1,4 +1,3 @@
-// app/(public)/home/layout.tsx
 'use client';
 
 import { Demo7Layout } from '@/app/components/layouts/demo7/layout';
