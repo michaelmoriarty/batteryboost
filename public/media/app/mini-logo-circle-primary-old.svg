@@ -1,0 +1,6 @@
+<svg width="24" height="18" viewBox="0 0 24 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="12" cy="9" r="8" fill="#E0F2FE" stroke="#B3E5FC" stroke-width="1.5"/>
+  <rect x="8.5" y="5" width="2" height="8" rx="1" fill="#6B8E23" /> <!-- Olive Green -->
+  <rect x="11" y="5" width="2" height="8" rx="1" fill="#4CAF50" /> <!-- Medium Green -->
+  <rect x="13.5" y="5" width="2" height="8" rx="1" fill="#A5D6A7" /> <!-- Light Green -->
+</svg>
